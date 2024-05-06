@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Pranav, a passionate Computer Science innovator.
+I am Pranav, a passionate Computer Science student.
 
-I love to create impactful projects and self learn.
+I love to create impactful projects!
 
 
 
