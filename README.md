@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Pranav, a passionate Computer Science student.
+I am a current Computer Science student at UCLA and former AI/ML intern at Apple.
 
 I love to create impactful projects!
 
